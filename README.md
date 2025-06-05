@@ -1,64 +1,70 @@
-<h2 align="center">Hey there, I'm Amarsh Kesarwani 👋</h2>
+<h1 align="center">👋 Hello, I'm Amarsh Kesarwani</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
+<p align="center">
+  <b>Business Analytics | Data Analytics | Power BI Wizard | Lifelong Learner</b><br>
+  <em>Turning Data into Insightful Stories 📊</em>
+</p>
+
+---
+
+### 🎯 About Me
+
+- 🎓 MBA in **Business Analytics** at Jaipuria Institute of Management  
+- 📊 Skilled in transforming raw data into meaningful business insights  
+- 🛠️ Tools I use: Power BI, Tableau, Excel, Python  
+- 🧠 Love building clean dashboards and data stories  
+- 🌐 Exploring analytics to solve real-world problems  
+- 🏏 Cricket enthusiast & travel lover!
+
+---
+
+### 🚀 Tech Stack
 
 <p align="center">
-  📊 <b>Business Analytics Enthusiast | Data-Driven Decision Maker | Power BI Specialist</b><br>
-  🎓 MBA (Business Analytics), Jaipuria Institute of Management
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔎 I'm passionate about using **data & analytics** to solve real-world problems  
-- 🚀 Currently exploring **advanced BI dashboards** and **predictive modeling**  
-- 💡 Love simplifying complex datasets into impactful insights  
-- 🌱 Always learning tools like **Power BI**, **Tableau**, **Python**, and **Excel**
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"/>
-</p>
-
----
-
-### 📂 Projects
+### 📁 Projects
 
 <details>
-  <summary>🔍 HR Analytics - EY</summary>
+  <summary>🔍 HR Analytics – EY</summary>
   <ul>
-    <li>Transformed raw HR data using Power BI to support better decision-making</li>
-    <li>Used Power Query for cleaning & visualizing HR KPIs</li>
+    <li>Analyzed employee data using Power BI</li>
+    <li>Created dashboards to support HR decision-making</li>
+    <li>Utilized Power Query to clean and transform data</li>
   </ul>
 </details>
 
 <details>
-  <summary>🍴 Zomato Data Trends</summary>
+  <summary>🍽️ Zomato Restaurant Trends</summary>
   <ul>
-    <li>Performed EDA, bivariate & multivariate analysis on restaurant dataset</li>
-    <li>Built a predictive model for rating trends</li>
+    <li>Performed EDA and multivariate analysis on restaurant dataset</li>
+    <li>Developed predictive model for ratings and cost trends</li>
+    <li>Used Python, Pandas, Matplotlib</li>
   </ul>
 </details>
 
 <details>
-  <summary>📈 Financial Analytics Dashboard</summary>
+  <summary>💰 Financial Analytics Dashboard – EY</summary>
   <ul>
-    <li>Created dashboards visualizing revenue, expenses, and cash flows</li>
-    <li>Used DAX formulas to track KPIs & metrics</li>
+    <li>Created dynamic dashboards with KPIs on revenue, profit, and expenses</li>
+    <li>Used DAX formulas for financial insights</li>
   </ul>
 </details>
 
 <details>
-  <summary>📊 Tata Data Visualization (Simulation)</summary>
+  <summary>📊 Tata Data Visualization Simulation</summary>
   <ul>
-    <li>Designed visual insights for client leadership decision-making</li>
-    <li>Prepared executive dashboards and meeting strategies</li>
+    <li>Created visual dashboards for client leadership simulation</li>
+    <li>Planned questions for strategic meetings and analysis</li>
   </ul>
 </details>
 
@@ -67,11 +73,11 @@
 ### 🧠 Skills
 
 ```yaml
-Business Tools:
-  - Power BI, Tableau, Excel, PowerPoint
-Programming:
-  - Python (Pandas, Matplotlib)
-Core Skills:
-  - Data Analysis, Data Cleaning, Visualization, Financial Analysis
+Analytics Tools:
+  - Power BI, Tableau, Excel, PowerPoint, Python
+Core Abilities:
+  - Data Cleaning, EDA, Dashboarding, Financial Analysis
 Soft Skills:
-  - Teamwork, Time Management, Adaptability, Decision Making
+  - Teamwork, Adaptability, Time Management, Communication
+Business Focus:
+  - HR Analytics, Strategic Planning, Market Research
