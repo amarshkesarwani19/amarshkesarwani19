@@ -72,3 +72,13 @@ Domain Expertise:
   - Statistical Methods
   - Financial Analysis
   - Data Transformation
+---
+
+### ⚡ Fun Fact
+
+> "A good analyst doesn't just answer questions — they ask better ones."  
+> Let's build a data-driven future together! 🚀
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
