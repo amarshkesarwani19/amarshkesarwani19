@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Amarsh Kesarwani 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1ABC9C&width=435&lines=MBA+in+Business+Analytics;Transforming+Data+into+Decisions+Making;Power+BI+%7C+Python+%7C+Excel+%7C+Tableau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1ABC9C&width=435&lines=MBA+in+Business+Analytics;Transforming+Data+into+Decisions;Power+BI+%7C+Python+%7C+Excel+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
