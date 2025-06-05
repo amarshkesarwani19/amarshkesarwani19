@@ -1,83 +1,74 @@
-<h1 align="center">👋 Hello, I'm Amarsh Kesarwani</h1>
+<!-- PROFILE README for Amarsh Kesarwani -->
+
+<h1 align="center">Hi there, I'm Amarsh Kesarwani 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
-<p align="center">
-  <b>Business Analytics | Data Analytics | Power BI Wizard | Lifelong Learner</b><br>
-  <em>Turning Data into Insightful Stories 📊</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1ABC9C&width=435&lines=MBA+in+Business+Analytics;Transforming+Data+into+Decisions;Power+BI+%7C+Python+%7C+Excel+%7C+Tableau" alt="Typing SVG" />
 </p>
 
----
-
-### 🎯 About Me
-
-- 🎓 MBA in **Business Analytics** at Jaipuria Institute of Management  
-- 📊 Skilled in transforming raw data into meaningful business insights  
-- 🛠️ Tools I use: Power BI, Tableau, Excel, Python  
-- 🧠 Love building clean dashboards and data stories  
-- 🌐 Exploring analytics to solve real-world problems  
-- 🏏 Cricket enthusiast & travel lover!
-
----
-
-### 🚀 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amarshkesarwani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AmarshKesarwani-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:amarshkesarwani5820@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-amarshkesarwani5820@gmail.com-red?logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 📁 Projects
+### 🧑‍🎓 About Me
 
-<details>
-  <summary>🔍 HR Analytics – EY</summary>
-  <ul>
-    <li>Analyzed employee data using Power BI</li>
-    <li>Created dashboards to support HR decision-making</li>
-    <li>Utilized Power Query to clean and transform data</li>
-  </ul>
-</details>
+🎓 Pursuing **MBA in Business Analytics** from Jaipuria Institute of Management  
+📊 Passionate about **data-driven decision-making** and turning complex data into actionable insights  
+🧠 Tools I love working with: **Power BI, Python, Excel, Tableau**  
+🚀 Always eager to learn and grow in the world of data and strategy
 
-<details>
-  <summary>🍽️ Zomato Restaurant Trends</summary>
-  <ul>
-    <li>Performed EDA and multivariate analysis on restaurant dataset</li>
-    <li>Developed predictive model for ratings and cost trends</li>
-    <li>Used Python, Pandas, Matplotlib</li>
-  </ul>
-</details>
+---
 
-<details>
-  <summary>💰 Financial Analytics Dashboard – EY</summary>
-  <ul>
-    <li>Created dynamic dashboards with KPIs on revenue, profit, and expenses</li>
-    <li>Used DAX formulas for financial insights</li>
-  </ul>
-</details>
+### 🔧 Tools & Technologies
 
-<details>
-  <summary>📊 Tata Data Visualization Simulation</summary>
-  <ul>
-    <li>Created visual dashboards for client leadership simulation</li>
-    <li>Planned questions for strategic meetings and analysis</li>
-  </ul>
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+</p>
+
+---
+
+### 📈 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| **🔍 HR Analytics – EY** | Cleaned and visualized employee data to enhance HR decision-making | Power BI, Power Query |
+| **🍴 Restaurant Trends – Zomato** | Performed data cleaning, EDA, and predictive modeling for business insights | Python, Pandas, Matplotlib |
+| **💰 Financial Dashboard – EY** | Built interactive Power BI dashboard for financial KPIs and DAX-based metrics | Power BI, DAX |
+| **📊 Tata Data Visualization** | Created dashboards for client leadership to support strategic decisions | Tableau, Excel |
+
+---
+
+### 📜 Certifications
+
+- 📘 **Business Analytics using Python – NPTEL (IIT Roorkee)**  
+- 📘 **Business Analytics for Management – NPTEL (IIT Kharagpur)**  
+- 📗 **Introduction to Data Visualization – Simplilearn**  
+- 📗 **Excel Essentials – ICA & Simplilearn**  
+- 📘 **CCC – NIELIT**
 
 ---
 
 ### 🧠 Skills
 
 ```yaml
-Analytics Tools:
-  - Power BI, Tableau, Excel, PowerPoint, Python
-Core Abilities:
-  - Data Cleaning, EDA, Dashboarding, Financial Analysis
 Soft Skills:
-  - Teamwork, Adaptability, Time Management, Communication
-Business Focus:
-  - HR Analytics, Strategic Planning, Market Research
+  - Quick Learner
+  - Analytical Thinking
+  - Team Collaboration
+  - Time Management
+  - Adaptability
+
+Domain Expertise:
+  - Statistical Methods
+  - Financial Analysis
+  - Data Transformation
